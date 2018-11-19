@@ -1,6 +1,9 @@
-# SAPC
-  A framework of speech map analysis of Chinese Pinyin  
-  Course project of Digital Audition Processing, 2017, Tongji University
+# CSMAP
+  A platform of speech map analysis of Chinese Pinyin  
+  Course project of Digital Audition Processing
+  Date: Nov.2017
+  Tongji University
+  
 ### Eight methods of analysis included:
 ##### 1. Time & frequency domain analysis on vowel, consonant
 ##### 2. Spectragram

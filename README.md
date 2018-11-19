@@ -1,7 +1,7 @@
 # CSMAP
   A platform of speech map analysis of Chinese Pinyin  
-  Course project of Digital Audition Processing
-  Date: Nov.2017
+  Course project of Digital Audition Processing  
+  Date: Nov.2017  
   Tongji University
   
 ### Eight methods of analysis included:

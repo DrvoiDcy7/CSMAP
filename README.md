@@ -22,5 +22,5 @@
   5. An Introdution manual is provided for guidance
 ### How to deal with errors on "wavread":
   1. Set view options as "Show hidden files, folders and drivers"  
-  2. If corresponding "._wav" files can be found, the wavread functino will be able to read .wav files  
-  3. For English only version, please change all the file name to english name  
+  2. If corresponding "._wav" files can be found, the wavread function will be able to read .wav files  
+  3. For MATLAB in English only version, please change all the file name to english name  

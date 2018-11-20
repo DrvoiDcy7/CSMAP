@@ -1,5 +1,5 @@
 # CSMAP
-  ## Chinese Speech Map Analysis Platform  
+  ## Chinese Speech Map Analysis Platform Based on MATLAB  
   Course project of Digital Audition Processing  
   Date: Nov.2017  
   Tongji University

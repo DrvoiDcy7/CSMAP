@@ -20,4 +20,7 @@
   3. Load the ".wav" files to be analyzed  
   4. Execute and get the corresponding result
   5. An Introdution manual is provided for guidance
-
+### How to deal with errors on "wavread":
+  1. Set view options as "Show hidden files, folders and drivers"  
+  2. If corresponding "._wav" files can be found, the wavread functino will be able to read .wav files  
+  3. For English only version, please change all the file name to english name  
